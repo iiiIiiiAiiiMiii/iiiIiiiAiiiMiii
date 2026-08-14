@@ -2,7 +2,7 @@
 
 <img src="gifs/Hi.gif" width="45">
 
-# `DLK DEVELOPER`
+# `HGMA D (dēv />`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1700&pause=450&color=00FF41&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+DLK+CORE...;%3E+ACCESSING+DEVELOPER+PROFILE...;%3E+IDENTITY+VERIFIED+%5BOK%5D;%3E+SYSTEM+STATUS%3A+ONLINE;%3E+WELCOME+TO+THE+DLK+NETWORK;%3E+BUILDING+THE+FUTURE+%5B2026%5D" />
 
