@@ -21,13 +21,3 @@ Automation Builder
 [+] SLEEP           : OPTIONAL
 
 └─$ _
-
-
-
-
-
-
-
- 
- ## ᴠɪssɪᴛᴏʀs ᴄᴏᴜɴᴛ
- ​![​VisitorCount​](https://profile-counter.glitch.me/{iiiIiiiAiiiMiii}/count.svg)
