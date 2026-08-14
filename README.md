@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003b14,100:00ff41&height=120&section=header&text=DLK%20CYBER%20LAB&fontSize=35&fontColor=00FF41&animation=fadeIn&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003b14,100:00ff41&height=120&section=header&text=HGMA%20D%20(dēv />&fontSize=35&fontColor=00FF41&animation=fadeIn&fontAlignY=65" />
 
 </div>
 
