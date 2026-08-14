@@ -1,28 +1,111 @@
 {
-  "name": "DLK TELEGRAM BOT",
-  "description": "DLK Telegram Bot",
+  "name": "DLK // CYBER CORE",
+  "description": "DLK Developer Cyber Core",
+  "keywords": [
+    "cyber",
+    "hacker",
+    "telegram",
+    "telethon",
+    "python",
+    "bot",
+    "automation"
+  ],
   "repository": "https://github.com/iiiIiiiAiiiMiii/iiiIiiiAiiiMiii",
+  "success_url": "https://github.com/iiiIiiiAiiiMiii/iiiIiiiAiiiMiii",
+
   "env": {
     "API_ID": {
-      "description": "Telegram API ID",
+      "description": ">> SYSTEM API ID",
       "required": true
     },
     "API_HASH": {
-      "description": "Telegram API Hash",
+      "description": ">> SYSTEM API HASH",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Telegram Bot Token",
+      "description": ">> PRIMARY BOT ACCESS TOKEN",
       "required": true
     },
+    "BOT_TOKEN2": {
+      "description": ">> SECONDARY ACCESS TOKEN",
+      "required": false
+    },
+    "BOT_TOKEN3": {
+      "description": ">> SECONDARY ACCESS TOKEN",
+      "required": false
+    },
+    "BOT_TOKEN4": {
+      "description": ">> SECONDARY ACCESS TOKEN",
+      "required": false
+    },
+    "BOT_TOKEN5": {
+      "description": ">> SECONDARY ACCESS TOKEN",
+      "required": false
+    },
+    "BOT_TOKEN6": {
+      "description": ">> SECONDARY ACCESS TOKEN",
+      "required": false
+    },
+    "BOT_TOKEN7": {
+      "description": ">> SECONDARY ACCESS TOKEN",
+      "required": false
+    },
+    "BOT_TOKEN8": {
+      "description": ">> SECONDARY ACCESS TOKEN",
+      "required": false
+    },
+    "BOT_TOKEN9": {
+      "description": ">> SECONDARY ACCESS TOKEN",
+      "required": false
+    },
+    "BOT_TOKEN10": {
+      "description": ">> SECONDARY ACCESS TOKEN",
+      "required": false
+    },
     "OWNER_ID": {
-      "description": "Telegram Owner ID",
+      "description": ">> ROOT OWNER ID",
       "required": true
+    },
+    "OWNER_NAME": {
+      "description": ">> ROOT OPERATOR NAME",
+      "required": false
+    },
+    "SUDO_USER": {
+      "description": ">> AUTHORIZED OPERATORS",
+      "required": false
+    },
+    "CMD_HNDLR": {
+      "description": ">> COMMAND PREFIX",
+      "value": "!",
+      "required": false
+    },
+    "ALIVE_PIC": {
+      "description": ">> SYSTEM STATUS MEDIA",
+      "required": false
+    },
+    "OTHER_INSTALLS": {
+      "description": ">> EXTRA SYSTEM PACKAGES",
+      "value": "None",
+      "required": false
+    },
+    "OTHER_CMD": {
+      "description": ">> EXTRA INITIALIZATION COMMAND",
+      "value": "None",
+      "required": false
+    },
+    "HEROKU_API_KEY": {
+      "description": ">> DEPLOYMENT API KEY",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": ">> CYBER NODE NAME",
+      "required": false
     }
   },
+
   "buildpacks": [
     {
       "url": "heroku/python"
-    }
+    ]
   ]
 }
