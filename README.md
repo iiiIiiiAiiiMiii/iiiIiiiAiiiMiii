@@ -3,9 +3,9 @@
 
 
 <div align="center">   
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEAM-DLK&layout=compact&theme=react"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiiIiiiAiiiMiii&layout=compact&theme=react"/>
     &nbsp;
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=TEAM-DLK&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues&theme=react"/>
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=iiiIiiiAiiiMiii&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues&theme=react"/>
 </div>
 
 <br>
@@ -40,7 +40,7 @@ ___
 
 
  
- [![​GitHub followers​](https://img.shields.io/github/followers/TEAM-DLK.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/TEAM-DLK?tab=followers) 
+ [![​GitHub followers​](https://img.shields.io/github/followers/iiiIiiiAiiiMiii.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iiiIiiiAiiiMiii?tab=followers) 
 
 
 
@@ -51,4 +51,4 @@ ___
 
  
  ## ᴠɪssɪᴛᴏʀs ᴄᴏᴜɴᴛ
- ​![​VisitorCount​](https://profile-counter.glitch.me/{TEAM-DLK}/count.svg)
+ ​![​VisitorCount​](https://profile-counter.glitch.me/{iiiIiiiAiiiMiii}/count.svg)
