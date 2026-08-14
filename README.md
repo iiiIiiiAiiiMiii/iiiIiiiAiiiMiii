@@ -1,47 +1,26 @@
-## <img src="gifs/Hi.gif" width="29px"> Hi
+┌──[DLK@github]─[~/profile]
+└─$ whoami
 
+> DLK DEVELOPER
 
+└─$ cat identity.txt
 
-<div align="center">   
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiiIiiiAiiiMiii&layout=compact&theme=react"/>
-    &nbsp;
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=iiiIiiiAiiiMiii&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues&theme=react"/>
-</div>
+Developer
+Open Source Enthusiast
+Telegram Developer
+Python Developer
+Web Developer
+Automation Builder
 
-<br>
- 
-  
+└─$ ./status.sh
 
- ​<img src="gifs/DOOZY 1.gif" alt="coding ?"> 
- 
-  
-  
-  
- ​</div>
- 
- 
-  
-## 📲Social 
+[+] SYSTEM ONLINE
+[+] CODE MODE       : ACTIVE
+[+] CREATIVITY      : 100%
+[+] PROJECTS        : RUNNING
+[+] SLEEP           : OPTIONAL
 
-
-<a href="https://t.me/DLKDevelopers">
-<img alt="Telegram" 
-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-    </a>
-</div>
-
-
-
-
-
-
-___
- 
-
-
- 
- [![​GitHub followers​](https://img.shields.io/github/followers/iiiIiiiAiiiMiii.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iiiIiiiAiiiMiii?tab=followers) 
-
+└─$ _
 
 
 
