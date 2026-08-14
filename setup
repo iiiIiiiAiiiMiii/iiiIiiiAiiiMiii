@@ -1,25 +1,44 @@
-
 #!/bin/bash
 
+set -e
+
 _other_installs () {
-   if [[ $OTHER_INSTALLS != "None" ]]
-   then
-    apt install $OTHER_INSTALLS -y
-   fi
-   }
+    if [[ -n "$OTHER_INSTALLS" && "$OTHER_INSTALLS" != "None" ]]
+    then
+        apt install $OTHER_INSTALLS -y
+    fi
+}
+
 _externals () {
-   if [[ $OTHER_CMD != "None" ]]
-   then
-      $OTHER_CMD
-   fi
-   }
-    
-apt update && apt upgrade -y
-apt install git -y
+    if [[ -n "$OTHER_CMD" && "$OTHER_CMD" != "None" ]]
+    then
+        eval "$OTHER_CMD"
+    fi
+}
+
+echo "================================="
+echo "       DLK DEVELOPER SETUP"
+echo "================================="
+
+apt update -y
+apt upgrade -y
+
 _other_installs
-pip3 install -U pip
-git clone https://github.com/TEAM-DLK/SPAMBOT Github_Repo
-cd Github_Repo
-pip3 install -U -r requirements.txt
+
+python3 -m pip install --upgrade pip
+
+if [ -f "requirements.txt" ]
+then
+    python3 -m pip install -U -r requirements.txt
+else
+    echo "ERROR: requirements.txt not found!"
+    exit 1
+fi
+
 _externals
-python -m SPAMBOT
+
+echo "================================="
+echo "       STARTING DLK BOT"
+echo "================================="
+
+python3 -m SPAMBOT
