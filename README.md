@@ -1,5 +1,44 @@
-<div align="center"> <a href="https://t.me/DLKDevelopers"> <img src="https://img.shields.io/badge/TELEGRAM-00FF41?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=050505"> </a> <a href="https://github.com/iiiIiiiAiiiMiii"> <img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"> </a>
+<div align="center">
+
+<img src="gifs/Hi.gif" width="45">
+
+# 𝘿𝙇𝙆 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1800&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=%3E%3E+SYSTEM+INITIALIZING...;%3E%3E+ACCESSING+DLK+NETWORK...;%3E%3E+IDENTITY+VERIFIED;%3E%3E+DEVELOPER+MODE+%5BONLINE%5D;%3E%3E+WELCOME+TO+THE+DLK+LAB;%3E%3E+BUILDING+THE+FUTURE+%5B2026%5D" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=iiiIiiiAiiiMiii&style=for-the-badge&color=00ff41&labelColor=050505&label=◉%20NETWORK%20VISITORS">
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/iiiIiiiAiiiMiii?style=for-the-badge&label=FOLLOWERS&color=00ff41&labelColor=050505"> <img src="https://img.shields.io/github/stars/iiiIiiiAiiiMiii?style=for-the-badge&label=STARS&color=00ff41&labelColor=050505"> <img src="https://img.shields.io/github/repositories/iiiIiiiAiiiMiii?style=for-the-badge&label=REPOSITORIES&color=00ff41&labelColor=050505"> </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003b14,100:00ff41&height=120&section=header&text=DLK%20CYBER%20LAB&fontSize=35&fontColor=00FF41&animation=fadeIn&fontAlignY=65" />
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                 ██████╗ ██╗     ██╗  ██╗                            ║
+║                 ██╔══██╗██║     ██║ ██╔╝                            ║
+║                 ██║  ██║██║     █████╔╝                             ║
+║                 ██║  ██║██║     ██╔═██╗                            ║
+║                 ██████╔╝███████╗██║  ██╗                            ║
+║                 ╚═════╝ ╚══════╝╚═╝  ╚═╝                            ║
+║                                                                      ║
+║                    D E V E L O P E R   L A B                        ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  STATUS       : 🟢 ONLINE                                           ║
+║  SECURITY     : 🔐 ACTIVE                                           ║
+║  NETWORK      : 🌐 CONNECTED                                        ║
+║  TERMINAL     : 💻 READY                                            ║
+║  YEAR         : 2026                                                ║
+║  MODE         : BUILD / CREATE / EXPERIMENT                         ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
