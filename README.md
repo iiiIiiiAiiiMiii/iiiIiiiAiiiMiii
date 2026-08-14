@@ -23,6 +23,9 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=400&color=00FF41&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+BOOT+%5D;%5B+LOADING+MODULES...+%5D;%5B+CONNECTING+TO+GITHUB...+%5D;%5B+CONNECTING+TO+DLK+NETWORK...+%5D;%5B+ALL+SYSTEMS+OPERATIONAL+%5D" /> </div>
 
 
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiiIiiiAiiiMiii&bg_color=050505&color=00ff41&line=00ff41&point=ffffff&area_color=003b14&area=true&hide_border=true&custom_title=DLK%20ACTIVITY%20STREAM" width="100%"> </div>
+
+
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,linux,vscode,mongodb,sqlite,flask,fastapi,docker&perline=7&theme=dark" />
 
 <br><br>
