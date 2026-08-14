@@ -20,3 +20,4 @@
 
 <div align="center">
 
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=400&color=00FF41&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+BOOT+%5D;%5B+LOADING+MODULES...+%5D;%5B+CONNECTING+TO+GITHUB...+%5D;%5B+CONNECTING+TO+DLK+NETWORK...+%5D;%5B+ALL+SYSTEMS+OPERATIONAL+%5D" /> </div>
