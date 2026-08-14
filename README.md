@@ -42,3 +42,4 @@
 ║  MODE         : BUILD / CREATE / EXPERIMENT                         ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
+</div> <br> <div align="center"> <img src="gifs/DOOZY%201.gif" width="850"> </div>
